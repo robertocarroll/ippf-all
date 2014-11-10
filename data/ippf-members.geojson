@@ -1,0 +1,2694 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "title": "Afghan Family Guidance Association",
+        "description": "<a href='http://www.afga.org.af/' class='read-more'>www.afga.org.af</a>",
+        "country": "Afghanistan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.166111,
+          34.533056
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Albania (FPAA)",
+        "description": "<a href='http://www.acpd-al.org/' class='read-more'>www.acpd-al.org</a>",
+        "country": "Albania",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9999619,
+          41.000028
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association Algérienne pour la Planification Familiale",
+        "description": "<a href='http://www.aapf-dz.org/' class='read-more'>www.aapf-dz.org</a>",
+        "country": "Algeria",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.042598,
+          36.716273
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Angola (ANGOBEFA)",
+        "description": " ",
+        "country": "Angola",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5691241,
+          -11.8775768
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Anguilla Family Planning Association (AFPA)",
+        "description": " ",
+        "country": "Anguilla",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.068615,
+          18.220554
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Caribbean Family Planning Affiliation Ltd (CFPA)",
+        "description": " ",
+        "country": "Antigua and Barbuda",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.796428,
+          17.060816
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Foundation for Adolescent Health (FUSA)",
+        "description": " ",
+        "country": "Argentina",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.381593,
+          -34.603723
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association For Family and Health of Armenia (AFHA)",
+        "description": "Website under construction",
+        "country": "Armenia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6736646,
+          40.7696272
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Foundation for the Promotion of Responsible Parenthood (FPRP)",
+        "description": " ",
+        "country": "Aruba",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.916667,
+          12.433333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Sexual Health and Family Planning Australia (SH&FPA) ",
+        "description": "<a href='http://www.shfpa.org.au/' class='read-more'>www.shfpa.org.au</a>",
+        "country": "Australia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.128684,
+          -35.282000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Österreichische Gesellschaft für Familienplanung (ÖGF)",
+        "description": "<a href='http://www.oegf.at/' class='read-more'>www.oegf.at</a>",
+        "country": "Austria",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199959,
+          47.2000338
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Bahamas Family Planning Association (BFPA)",
+        "description": " ",
+        "country": "Bahamas",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.345000,
+          25.060000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Bahrain Family Planning Association (BFPA)",
+        "description": " ",
+        "country": "Bahrain",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.583333,
+          26.216667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Bangladesh (FPAB)",
+        "description": "<a href='http://www.fpab.org.bd/' class='read-more'>www.fpab.org.bd</a>",
+        "country": "Bangladesh",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.412518,
+          23.810332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Barbados Family Planning Association (BFPA)",
+        "description": "<a href='http://www.bfpa.net/' class='read-more'>www.bfpa.net</a>",
+        "country": "Barbados",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.598809,
+          13.113222
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Sensoa",
+        "description": "<a href='http://www.sensoa.be' class='read-more'>www.sensoa.be</a>",
+        "country": "Belgium (Flemish)",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.402464,
+          51.219448
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Fédération Laïque de Centres de Planning Familial",
+        "description": "<a href='http://www.planningfamilial.net/' class='read-more'>www.planningfamilial.net</a>",
+        "country": "Belgium",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          50.85
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Belize Family Life Association (BFLA)",
+        "description": " ",
+        "country": "Belize",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.186667,
+          17.504722
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Beninoise Pour La Promotion De La Famille (ABFP)",
+        "description": "<a href='http://www.abpf.org' class='read-more'>www.abpf.org</a>",
+        "country": "Benin",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1005516,
+          9.557657
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Teen Services",
+        "description": " ",
+        "country": "Bermuda",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.781375,
+          32.294816
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Respect, Educate, Nurture, Empower Women (RENEW)",
+        "description": "<a href='http://www.renewbhutan.org/' class='read-more'>www.renewbhutan.org</a>",
+        "country": "Bhutan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.608683,
+          27.475646
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Centro de Investigacion, Educacion y Servicios (CIES)",
+        "description": "<a href='http://www.cies.org.bo/' class='read-more'>www.cies.org.bo</a>",
+        "country": "Bolivia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.150000,
+          -16.500000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association for Sexual and Reproductive Health XY",
+        "description": "<a href='http://www.xy.com.ba/' class='read-more'>www.xy.com.ba</a>",
+        "country": "Bosnia and Herzegovina",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Botswana Family Welfare Association (BOFWA)",
+        "description": "<a href='http://www.bofwa.org.bw/' class='read-more'>www.bofwa.org.bw</a>",
+        "country": "Botswana",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5928742,
+          -23.1681782
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Bem-Estar Familiar no Brasil (BEMFAM)",
+        "description": "<a href='http://www.grupobemfam.org.br/bemfam/' class='read-more'>www.grupobemfam.org.br</a>",
+        "country": "Brazil",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.197077,
+          -22.908300
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Bulgarian Family Planning and Sexual Health Association (BFPA)",
+        "description": "<a href='http://www.safesex.bg/' class='read-more'>www.safesex.bg</a>",
+        "country": "Bulgaria",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4856617,
+          42.6073975
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association Burkinabé pour le Bien-Etre Familial (FPABF)",
+        "description": "<a href='http://www.abbef.org/' class='read-more'>www.abbef.org</a>",
+        "ID": 174,
+        "country": "Burkina Faso",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3700296,
+          11.7100294
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Burundaise pour le Bien-Etre Familial (ABUBEF) ",
+        "description": "<a href='http://www.abubef.org' class='read-more'>www.abubef.org</a>",
+        "country": "Burundi",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8870575,
+          -3.3634357
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Reproductive Health Association of Cambodia (RHAC) ",
+        "description": "<a href='http://www.rhac.org.kh/' class='read-more'>www.rhac.org.kh</a>",
+        "country": "Cambodia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.892167,
+          11.544873
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Cameroon National Planning Association for Family Welfare (CAMNAFAW)",
+        "description": " ",
+        "country": "Cameroon",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1535811,
+          4.6125522
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Canadian Federation for Sexual Health (CFSH)",
+        "description": "<a href='http://www.cfsh.ca/' class='read-more'>www.cfsh.ca</a>",
+        "country": "Canada",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697193,
+          45.421530
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Associação Cabo-Verdiana Para a Protecao Da Familia (VERDEFAM)",
+        "description": " ",
+        "country": "Cape Verde",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.0083947,
+          16.0000552
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Centrafricaine pour le Bien-Etre Familial (ACABEF)",
+        "description": "<a href='http://www.acabef.org/' class='read-more'>www.acabef.org</a>",
+        "country": "Central African Republic ",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.583333,
+          4.366667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Tchadienne pour le Bien-Être Familial (ASTBEF)",
+        "description": " ",
+        "country": "Chad",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0156172,
+          15.6134137
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Asociación Chilena de Protección de la Familia (APROFA)",
+        "description": "<a href='http://aprofa.kweb.cl/' class='read-more'>aprofa.kweb.cl</a>",
+        "country": "Chile",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.641997,
+          -33.469120
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The China Family Planning Association (CFPA)",
+        "description": "<a href='http://eng.chinafpa.org.cn/' class='read-more'>eng.chinafpa.org.cn</a>",
+        "country": "China",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.407526,
+          39.904030
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Asociación Pro-Bienestar de la Familia Colombiana (PROFAMILIA)",
+        "description": "<a href='http://www.profamilia.org.co/' class='read-more'>www.profamilia.org.co</a>",
+        "country": "Colombia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.041763,
+          4.596128
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Comorienne pour le Bien-Être Famille (ASCOBEF)",
+        "description": " ",
+        "country": "Comoros",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2302589,
+          -12.1802586
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Congolaise pour le Bien-Etre Familial (ACBEF)",
+        "description": "<a href='http://www.acbef.org' class='read-more'>www.acbef.org</a>",
+        "country": "Congo",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.283333,
+          -4.266667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association de Bien-Etre Familial – Naissances Désirables (ABEF-ND)",
+        "description": " ",
+        "country": "Congo, Dem. Republic",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.534667968749998,
+          -5.00339434502215
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Cook Islands Family Welfare Association (CIFWA)",
+        "description": " ",
+        "country": "Cook Islands",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.776349,
+          -21.229237
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Asociación Demográfica Costarricense (ADC)",
+        "description": "<a href='http://www.adc-cr.org/' class='read-more'>www.adc-cr.org</a>",
+        "country": "Costa Rica",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.090725,
+          9.928069
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association Ivoirienne pour le Bien-Etre Familial",
+        "description": " ",
+        "country": "Côte d'Ivoire ",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5679458,
+          7.9897371
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Sociedad Cientifica Cubana Para el Desarrollo de la Familia (SOCUDEF)",
+        "description": " ",
+        "country": "Cuba",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -82.345189,
+          23.054070
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Cyprus Family Planning Association (CFPA)",
+        "description": "<a href='http://www.cyfamplan.org' class='read-more'>www.cyfamplan.org</a>",
+        "country": "CYPRUS",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1383225700226,
+          35.1758113
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Polečnost pro Plánování Rodiny a Sexuální Výchovu (SPRSV)",
+         "description": "<a href='http://www.planovanirodiny.cz' class='read-more'>www.planovanirodiny.cz</a>",
+        "country": "Czech Republic",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437800,
+         50.075538
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Sex & Samfund (The Danish Family Planning Association/DFPA)",
+        "description": "<a href='http://www.sexogsamfund.dk' class='read-more'>www.sexogsamfund.dk</a>",
+        "country": "Denmark",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3333283,
+          55.670249
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Dominica Planned Parenthood Association (DPPA)",
+        "description": " ",
+        "country": "Dominica",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -61.379355,
+          15.309168
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Asociación Dominicana Pro-Bienestar de la Familia (Profamilia)",
+        "description": "<a href='http://www.profamilia.org.do/' class='read-more'>www.profamilia.org.do</a>",
+        "country": "Dominican Republic",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.983333,
+          18.500000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Centro Ecuatoriano Para la Promocion y Accion de la Mujer (CEPAM-Guayaquil)",
+        "description": "<a href='http://cepamgye.wordpress.com/' class='read-more'>cepamgye.wordpress.com</a>",
+        "country": "Ecuador",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.922359,
+          -2.170998
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Egyptian Family Planning Association (EFPA)",
+        "description": "<a href='http://www.efpa-eg.net/en/home.php' class='read-more'>www.efpa-eg.net</a>",
+        "country": "Egypt",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.235712,
+          30.044420
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Salvadoran Demographic Association (ADS)",
+        "description": " ",
+        "country": "El Salvador",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -89.218191,
+          13.692940
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Estonia (FPAE)",
+        "description": "<a href='http://www.amor.ee/' class='read-more'>www.amor.ee</a>",
+        "country": "Estonia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3319078,
+          58.7523778
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Guidance Association of Ethiopia (FGAE)",
+        "description": "<a href='http://www.fgaeet.org/' class='read-more'>www.fgaeet.org</a>",
+        "country": "Ethiopia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.757761,
+          8.980603
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Reproductive and Family Health Association of Fiji (RFHAF)",
+        "description": " ",
+        "country": "Fiji",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         178.441900,
+          -18.141600
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Väestöliitto (The Family Federation of Finland)",
+        "description": "<a href='http://www.vaestoliitto.fi/' class='read-more'>www.vaestoliitto.fi</a>",
+        "country": "Finland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941025,
+          60.173324
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Mouvement Français pour le Planning Familial (MFPF)",
+        "description": "<a href='http://www.planning-familial.org/' class='read-more'>www.planning-familial.org</a>",
+        "country": "France",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352222,
+          48.856614
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Mouvement Gabonais pour le Bien-etre Familial (MGBEF)",
+        "description": " ",
+        "country": "Gabon",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6899699,
+          -0.8999695
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association HERA XXI",
+        "description": "<a href='http://www.hera-youth.ge/' class='read-more'>www.hera-youth.ge</a>",
+        "country": "Georgia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0287382,
+          41.6809707
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Pro Familia",
+        "description": "<a href='http://www.profamilia.de/' class='read-more'>www.profamilia.de</a>",
+        "country": "Germany",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682127,
+          50.110922
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Association of Ghana (PPAG) ",
+        "description": "<a href='http://www.ppag-gh.org/' class='read-more'>www.ppag-gh.org</a>",
+        "country": "Ghana",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0800271,
+          8.0300284
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Grenada Planned Parenthood Association (GPPA)",
+        "description": "<a href='https://sites.google.com/site/mygppas/' class='read-more'>sites.google.com/site/mygppas/</a>",
+        "country": "Grenada",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.679000,
+          12.116500
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association Guadeloupéenne pour le Planning Familial (AGFP). Also known as La Maternite Consciente",
+        "description": " ",
+        "country": "Guadeloupe",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.551000,
+          16.265000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Asociacion Pro-Bienestar de la Familia de Guatemala (APROFAM)",
+        "description": "<a href='http://www.aprofam.org.gt/' class='read-more'>www.aprofam.org.gt</a>",
+        "country": "Guatemala",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association de Bienestar Familiar de Guinea Equatorial (ABIFAGE)",
+        "description": " ",
+        "country": "Guinea-Bissau",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.600000,
+          11.866667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Guinéenne pour le Bien-être Familial (AGBEF)",
+        "description": " ",
+        "country": "Guinea-Conakry",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.578401,
+          9.641185
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Guyana Responsible Parenthood Association (GRPA)",
+        "description": "<a href='http://www.grpa.gy/' class='read-more'>www.grpa.gy</a>",
+        "country": "Guyana",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.166667,
+          6.800000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association pour la Promotion de la Famille Haitienne (PROFAMIL)",
+        "description": " ",
+        "country": "Haiti",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Honduran Associacion for Family Planning (ASHONPLAFA)",
+        "description": " ",
+        "country": "Honduras",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.216667,
+          14.083333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Hong Kong (FPAHK)",
+        "description": "<a href='http://www.famplan.org.hk/' class='read-more'>www.famplan.org.hk</a>",
+        "country": "Hong Kong",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Icelandic Association for Sexual and Reproductive Health (IcASRH)",
+        "description": "<a href='http://www.fkb.is/' class='read-more'>www.fkb.is</a>",
+        "country": "Iceland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1059013,
+          64.9841821
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of India (FPAI)",
+        "description": "<a href='http://www.fpaindia.org/index.php' class='read-more'>www.fpaindia.org</a>",
+        "country": "India",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.877656,
+          19.075984
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Indonesian Planned Parenthood Association (IPPA)",
+        "description": " ",
+        "country": "Indonesia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806039,
+          -6.268991
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association (FPA) of the Islamic Republic of Iran",
+        "description": " ",
+        "country": "Iran",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.423056,
+          35.696111
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Iraq Family Planning Association (IFPA)",
+        "description": " ",
+        "country": "Iraq",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.422000,
+          33.325000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Irish Family Planning Association (IFPA) ",
+        "description": "<a href='http://www.ifpa.ie' class='read-more'>www.ifpa.ie</a>",
+        "country": "Ireland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260310,
+          53.349805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Israel Family Planning Association (IFPA)",
+        "description": "<a href='http://www.opendoor.org.il' class='read-more'>www.opendoor.org.il</a>",
+        "country": "Israel",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.781768,
+          32.085300
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Jamaica Family Planning Association (FAMPLAN)",
+        "description": " ",
+        "country": "Jamaica",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.240515,
+          18.328143
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Federation of Japan (FPFJ)",
+        "description": " ",
+        "country": "Japan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691706,
+          35.689487
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Kazakhstan Association for Sex and Reproductive Health (KMPA)",
+        "description": "<a href='http://www.kmpakaz.org' class='read-more'>www.kmpakaz.org</a>",
+        "country": "Kazakhstan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.895833,
+          43.277500
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Health Options of Kenya (FHOK)",
+        "description": "<a href='http://www.fhok.org' class='read-more'>www.fhok.org</a>",
+        "country": "Kenya",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.821946,
+          -1.292066
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Kiribati Family Health Association",
+        "description": " ",
+        "country": "Kiribati",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.362601,
+          1.870918
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Korean Family Planning & Maternal and Child Health Association (KFP & MCHA)",
+        "description": " ",
+        "country": "Korea, Dem. People's Republic",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         127.510093,
+          40.339852
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Federation of Korea (PPFK)",
+        "description": "<a href='http://www.ppfk.or.kr/Eng/en_index.htm' class='read-more'>www.ppfk.or.kr</a>",
+        "country": "Korea, Republic of",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977969,
+          37.566535
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Reproductive Health Alliance Kyrgyzstan (RHAK)",
+        "description": "<a href='http://www.rhak.kg/english/index.php' class='read-more'>www.rhak.kg</a>",
+        "country": "Kyrgyzstan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.612222,
+          42.874722
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Latvian Association for Family Planning & Sexual Health (LAFPSH)",
+        "description": "<a href='http://www.papardeszieds.lv' class='read-more'>www.papardeszieds.lv</a>",
+        "country": "Latvia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.105186,
+          56.949649
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Lebanon Association for a Modern Family (LAMF)",
+        "description": " ",
+        "country": "Lebanon",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        35.495479,
+          33.888629
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Lesotho Planned Parenthood Association (LPPA)",
+        "description": "<a href='http://www.lppa.org.ls' class='read-more'>www.lppa.org.ls</a>",
+        "country": "Lesotho",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.480000,
+          -29.310000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Liberia (FPAL)",
+        "description": "<a href='http://www.ppaliberia.org' class='read-more'>www.ppaliberia.org</a>",
+        "country": "Liberia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.801389,
+          6.313333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning and Sexual Health Association of Lithuania (FPSHA)",
+        "description": "<a href='http://www.spa.lt' class='read-more'>www.spa.lt</a>",
+        "country": "Lithuania",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.279651,
+          54.687156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Association for Health Education and Research (HERA)",
+        "description": "<a href='http://hera.org.mk/?lang=en' class='read-more'>www.hera.org.mk</a>",
+        "country": "Macedonia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.745275,
+          41.608635
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Fianakaviana Sambatra (FISA)",
+        "description": " ",
+        "country": "Madagascar",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        47.516667,
+          -18.933333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Malawi (FPAM)",
+        "description": " ",
+        "country": "Malawi",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        33.9301963,
+          -13.2687204
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Federation of Reproductive Health Associations of Malaysia (FRHAM)",
+        "description": "<a href='http://www.frham.org.my' class='read-more'>www.frham.org.my</a>",
+        "country": "Malaysia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.94189453125,
+          4.083452772038619
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Society for Health Education (SHE)",
+        "description": "<a href='http://she.org.mv/' class='read-more'>she.org.mv</a>",
+        "country": "Maldives",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.508889,
+          4.175278
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Malienne pour la Protection et la Promotion de la Famille (AMPPF)",
+        "description": " ",
+        "country": "Mali",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -2.2900239,
+          16.3700359
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Martiniquaise pour I'Information et l'Orientation Familiales (AMIOF)",
+        "description": " ",
+        "country": "Martinique",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -61.024174,
+          14.641528
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Mauritanienne pour la Promotion de la Famille (AMPF)",
+        "description": " ",
+        "country": "Mauritania",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -15.950000,
+          18.100000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Mauritius Family Planning & Welfare Association (MFPWA)",
+        "description": "<a href='http://www.mauritiusfamilyplanning.com' class='read-more'>www.mauritiusfamilyplanning.com</a>",
+        "country": "Mauritius",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         57.38433837890624,
+          -20.483627529921847
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "MEXFAM",
+        "description": "<a href='http://www.mexfam.org.mx/' class='read-more'>www.mexfam.org.mx</a>",
+        "country": "Mexico",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -99.133208,
+          19.432608
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Moldova (FPAM)",
+        "description": "<a href='http://www.iubire.md/' class='read-more'>www.iubire.md</a>",
+        "country": "Moldova",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         28.4165225,
+          46.9161023
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Mongolian Family Welfare Association (MFWA)",
+        "description": " ",
+        "country": "Mongolia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        106.920000,
+          47.920000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Marocaine de Planification Familiale (AMPF)",
+        "description": "<a href='http://www.ampf.org.ma/' class='read-more'>www.ampf.org.ma</a>",
+        "country": "Morocco",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -6.845820,
+          33.974085
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Associação Moçambicana para Desenvolvimento da Família (AMODEFA)",
+        "description": "<a href='http://www.amodefa.org.mz' class='read-more'>www.amodefa.org.mz</a>",
+        "country": "Mozambique",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         32.583333,
+          -25.966667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Namibian Family Planning Association (NAPPA)",
+        "description": " ",
+        "country": "Namibia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        17.083611,
+          -22.570000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Nepal (FPAN)",
+        "description": "<a href='http://www.fpan.org/' class='read-more'>www.fpan.org</a>",
+        "country": "Nepal",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.333333,
+          27.7
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Rutgers WPF",
+        "description": "<a href='http://www.rutgerswpf.org/' class='read-more'>www.rutgerswpf.org</a>",
+        "country": "Netherlands",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.096623,
+          52.091874
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Nevis Family Planning Association",
+        "description": " ",
+        "country": "Nevis and St. Kitts",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -62.782998,
+          17.357822
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "New Zealand Family Planning (NZFP)",
+        "description": "<a href='http://www.familyplanning.org.nz/' class='read-more'>www.familyplanning.org.nz</a>",
+        "country": "New Zealand",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.776236,
+          -41.286460
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Asociación Pro-Bienestar de la Familia Nicaragüense (PROFAMILIA)",
+        "description": "<a href='http://www.profamilia.org.ni/' class='read-more'>www.profamilia.org.ni</a>",
+        "country": "Nicaragua",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.251389,
+          12.136389
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Nigérienne pour le Bien-Etre Familial (ANBEF)",
+        "description": " ",
+        "country": "Niger",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         9.3238432,
+          17.7356214
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Federation of Nigeria (PPFN)",
+        "description": "<a href='http://www.ppfng.org/' class='read-more'>www.ppfng.org</a>",
+        "country": "Nigeria",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483333,
+          9.066667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Sex og Politikk",
+        "description": "<a href='http://www.sexogpolitikk.no/' class='read-more'>www.sexogpolitikk.no</a>",
+        "country": "Norway",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         10.752245,
+          59.913869
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Rahnuma (formerly the Family Planning Association of Pakistan or FPAP)",
+        "description": "<a href='http://www.fpapak.org/' class='read-more'>www.fpapak.org</a>",
+        "country": "Pakistan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         74.357158,
+          31.554606
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Palestinian Family Planning and Protection Association (PFPPA)",
+        "description": "<a href='http://www.pfppa.org/en/' class='read-more'>www.pfppa.org</a>",
+        "country": "Palestine",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         35.213710,
+          31.768319
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Asociación Panameña para el Planeamiento de la Familia",
+        "description": "<a href='http://www.aplafa.org.pa/' class='read-more'>www.aplafa.org.pa</a>",
+        "country": "Panama",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Centro Paraguayo de Estudios de Poblacion (CEPEP)",
+        "description": "<a href='http://www.cepep.org.py/' class='read-more'>www.cepep.org.py</a>",
+        "country": "Paraguay",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -57.635100,
+          -25.282197
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Instituto Peruano de Paternidad Responsable (INPPARES)",
+        "description": " ",
+        "country": "Peru",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -77.042793,
+          -12.046374
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Organization of the Philippines (FPOP)",
+        "description": "<a href='http://www.fpop1969.org/whoweare/index.html' class='read-more'>www.fpop1969.org</a>",
+        "country": "Philippines",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        120.984219,
+          14.599512
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Towarzystwo Rozwoju Rodziny (TRR)",
+        "description": "<a href='http://www.trr.org.pl' class='read-more'>www.trr.org.pl</a>",
+        "country": "Poland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        21.012229,
+          52.229676
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Associação Para o Planeamento da Família (APF)",
+        "description": "<a href='http://www.apf.pt/' class='read-more'>www.apf.pt</a>",
+        "country": "Portugal",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -9.139337,
+          38.722252
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "PRO-FAMILIA",
+        "description": "<a href='http://www.profamiliapr.org/' class='read-more'>www.profamiliapr.org</a>",
+        "country": "Puerto Rico",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -66.058249,
+          18.386303
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Serbian Association for Sexual and Reproductive Health and Rights (SRH Serbia/SRHS)",
+        "description": "<a href='http://www.oic.rs/' class='read-more'>www.oic.rs</a>",
+        "country": "Republic of Serbia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       20.462222,
+          44.820556
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Societatea de Educatie Contraceptiva si Sexuala (SECS)",
+        "description": "<a href='http://www.secs.ro' class='read-more'>www.secs.ro</a>",
+        "country": "Romania",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       26.103889,
+          44.432500
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Russian Family Planning Association (RFPA)",
+        "description": "<a href='http://www.ranir.ru' class='read-more'>www.ranir.ru</a>",
+        "country": "Russia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       37.617300,
+          55.755826
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Rwandaise pour le Bien-Etre Familial (ARBEF)",
+        "description": " ",
+        "country": "Rwanda",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         30.0644358,
+          -1.9646631
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Samoan Family Health Association (SFHA)",
+        "description": " ",
+        "country": "Samoa",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -172.104629,
+          -13.759029
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Sénégalaise pour le Bien-Etre Familial (ASBEF)",
+        "description": "<a href='http://asbef.asso-web.com' class='read-more'>asbef.asso-web.com</a>",
+        "country": "Senegal",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       -14.4529612,
+          14.4750607
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Association of Sierra Leone (PPASL)",
+        "description": " ",
+        "country": "Sierra Leone",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -11.8400269,
+          8.6400349
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Singapore Planned Parenthood Association (SPPA)",
+        "description": "<a href='http://www.sppa.org.sg/' class='read-more'>www.sppa.org.sg</a>",
+        "country": "Singapore",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       103.819836,
+          1.352083
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Slovak Family Planning Association (Slovak FPA)",
+        "description": "<a href='http://rodicovstvo.wordpress.com/english/' class='read-more'>www.sppa.org.sg</a>",
+        "country": "Slovak Republic",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       19.4528646,
+          48.7411522
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Solomon Islands Planned Parenthood Association (SIPPA)",
+        "description": " ",
+        "country": "Solomon Islands",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         160.156194,
+          -9.645710
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Somaliland Family Health Association",
+        "description": " ",
+        "country": "Somaliland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         46.825284,
+          9.411743
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Federación de Planificación Familiar de España (FPFE)",
+        "description": "<a href='http://www.fpfe.org/' class='read-more'>www.fpfe.org</a>",
+        "country": "Spain",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       -3.703790,
+          40.416775
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Sri Lanka (FPASL)",
+        "description": "<a href='http://www.fpasrilanka.org/' class='read-more'>www.fpasrilanka.org</a>",
+        "country": "Sri Lanka",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       80.13427734374999,
+          6.926426847059551
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Saint Lucia Planned Parenthood Association",
+        "description": " ",
+        "country": "St Lucia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -60.978893,
+          13.909444
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "St Vincent Planned Parenthood Association",
+        "description": " ",
+        "country": "St Vincent",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -61.210244,
+          13.264877
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Sudan Family Planning Association (SFPA)",
+        "description": " ",
+        "country": "Sudan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         32.559899,
+          15.500654
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Stichting Lobi (LOBI)",
+        "description": "<a href='http://www.lobisuriname.org/' class='read-more'>www.lobisuriname.org</a>",
+        "country": "Suriname",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       -55.203828,
+          5.852036
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Life Association of Swaziland (FLAS)",
+        "description": " ",
+        "country": "Swaziland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         31.465866,
+          -26.522503
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Riksförbundet För Sexuell Upplysning (RFSU)",
+        "description": "<a href='http://www.rfsu.se/' class='read-more'>www.rfsu.se</a>",
+        "country": "Sweden",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       18.064910,
+          59.328930
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Fondation Suisse pour la Santé Sexuelle et Reproductive (PLANeS)",
+        "description": "<a href='http://www.sante-sexuelle.ch/' class='read-more'>www.sante-sexuelle.ch</a>",
+        "country": "Switzerland",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       6.633597,
+          46.519962
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Syrian Family Planning Association (SFPA)",
+        "description": " ",
+        "country": "Syria",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         36.306400,
+          33.511100
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Tajikistan Family Planning Association (TFPA)",
+        "description": "<a href='http://www.tfpa.tj/' class='read-more'>www.tfpa.tj</a>",
+        "country": "Tajikistan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         68.780000,
+          38.536667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Uzazi na Malezi Bora Tanzania (UMATI)",
+        "description": "<a href='http://www.umati.or.tz/' class='read-more'>www.umati.or.tz</a>",
+        "country": "Tanzania",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         39.283333,
+          -6.800000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Association of Thailand (PPAT)",
+        "description": "<a href='http://www.ppat.or.th/en/home' class='read-more'>www.ppat.or.th</a>",
+        "country": "Thailand",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         100.524123,
+          13.727896
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Association Togolaise pour le Bien-Etre Familial (ATBEF)",
+        "description": " ",
+        "country": "Togo",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         1.212500,
+          6.137778
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Tonga Family Health Association (TFHA)",
+        "description": " ",
+        "country": "Tongo",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -175.198242,
+          -21.178986
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Family Planning Association of Trinidad and Tobago (FPATT)",
+        "description": " ",
+        "country": "Trinidad and Tobago",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -61.222503,
+          10.691803
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Tunisian Sexual and Reproductive Health Association (ATSR)",
+        "description": " ",
+        "country": "Tunisia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         10.181532,
+          36.806495
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Türkiye Aile Planlamasi Dernegi (FPAT)",
+        "description": "<a href='http://www.tapd.org.tr' class='read-more'>www.tapd.org.tr</a>",
+        "country": "Turkey",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         32.854110,
+          39.920770
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Tuvalu Family Health Association (TuFHA)",
+        "description": " ",
+        "country": "Tuvalu",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         178.679921,
+          -7.478442
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Reproductive Health Uganda (RHU)",
+        "description": "<a href='http://www.rhu.or.ug' class='read-more'>www.rhu.or.ug</a>",
+        "country": "Uganda",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         32.581111,
+          0.313611
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "NGO Women Health and Family Planning",
+        "description": "<a href='http://www.womenhealth.org.ua' class='read-more'>www.womenhealth.org.ua</a>",
+        "country": "Ukraine",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         30.523400,
+          50.450100
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The United Kingdom Family Planning Association (FPA)",
+        "description": "<a href='http://www.fpa.org.uk' class='read-more'>www.fpa.org.uk</a>",
+        "country": "United Kingdom",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -0.125487,
+          51.508515
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Federation of America (PPFA)",
+        "description": "<a href='http://www.plannedparenthood.org/' class='read-more'>www.plannedparenthood.org</a>",
+        "country": "United States",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -73.978003,
+         40.705631
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Uzbek Association on Reproductive Health (UARH)",
+        "description": "<a href='http://www.uarz.uz/' class='read-more'>www.uarz.uz</a>",
+        "country": "Uzbekistan",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        69.216667,
+         41.266667
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Vanuatu Family Health Association (VFHA)",
+        "description": " ",
+        "country": "Vanuatu",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         166.959158,
+          -15.376706
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Asociación Civil de Planificación Familiar (PLAFAM)",
+        "description": " ",
+        "country": "Venezuela",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -66.916667,
+          10.500000
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Vietnam Family Planning Association (VINAFPA)",
+        "description": " ",
+        "country": "Vietnam",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         105.850000,
+          21.033333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Yemeni Association for Reproductive Health (YARH)",
+        "description": " ",
+        "country": "Yemen",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         44.191007,
+          15.369445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "title": "The Planned Parenthood Association of Zambia (PPAZ)",
+        "description": "<a href='http://www.ppaz.org.zm/' class='read-more'>www.ppaz.org.zm</a>",
+        "country": "Zambia",
+        "type": "member-association"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        28.283333,
+         -15.416667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.821946,
+          -1.292066
+        ]
+      },
+      "properties": {
+        "title": "Africa",
+        "description": "<p>Madison Insurance House Upper Hill Road/Ngong Road<br>PO BOX 30234<br>Nairobi 100<br>Kenya<br>Tel: +254 (20) 2720 280 or (20) 2720 281 or (20) 2720 282<br>Fax: +254 (20) 2714 968</p><p>To find out more about IPPF's work in Africa, visit the Africa Region’s website: <a href='http://www.ippfar.org' class='read-more'>www.ippfar.org</a>",
+        "type": "regional-office",
+        "country": "Kenya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16596,
+          36.81881
+        ]
+      },
+      "properties": {
+        "title": "Arab World",
+        "description": "<p>2 Place Virgile,<br>Notre Dame,<br>Tunis,<br>Tunisia<br>Tel: +216 71 847 344<br>Fax: + 216 71 789 934<br>Email: enggased@ippf.org.tn</p><p>To find out more about IPPF's work in the Arab World, go to: <a href='http://www.ippfawr.org/en' class='read-more'>www.ippfawr.org</a></p>",
+        "type": "regional-office",
+        "country": "Tunisia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686855,
+          3.139003
+        ]
+      },
+      "properties": {
+        "title": "East and South East Asia and Oceania",
+        "description": "<p>246 Jalan Ampang,<br>Kuala Lumpur 50450,<br>Malaysia<br>Tel: +60 (3) 425 66 122</p><p>To find out more about IPPF's work in the region, go to: <a href='http://www.ippfeseaor.org/en' class='read-more'>www.ippfeseaor.org</a></p>",
+        "type": "regional-office",
+        "country": "Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22496,
+          28.635308
+        ]
+      },
+      "properties": {
+        "title": "South Asia",
+        "description": "<p>IPPF House,<br>66 Sundar Nagar,<br>New Delhi 110003,<br>Tel: +91 (11) 2435 9221</p><p>To find out more about IPPF's work in South Asia, go to: <a href='http://www.ippfsar.org/en' class='read-more'>www.ippfsar.org</a></p>",
+        "type": "regional-office",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35171,
+          50.85034
+        ]
+      },
+      "properties": {
+        "title": "European Network",
+        "description": "<p>146 rue Royale,<br>Brussels 1000,<br>Tel: +32 (0)2 250 09 50</p><p>To find out more about IPPF's work in Europe, go to: <a href='http://www.ippfen.org/en' class='read-more'>www.ippfen.org</a></p>",
+        "type": "regional-office",
+        "country": "Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005973,
+          40.714353
+        ]
+      },
+      "properties": {
+        "title": "Western Hemisphere",
+        "description": "<p>125 Maiden Lane,<br>9th Floor,<br>New York,<br>NY 10038</p><p>To find out more about IPPF's work in this region, go to: <a href='http://www.ippfwhr.org' class='read-more'>www.ippfwhr.org</a></p>",
+        "type": "regional-office",
+        "country": "United States"
+      }
+    }
+ ]
+}

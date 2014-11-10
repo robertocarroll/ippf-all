@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [36.821946, -1.292066]
+    },
+    "properties": {
+        "title": "Africa",
+        "number": "16",
+        "ma": "37",
+        "ro": "Nairobi, Kenya",
+        "description": "<p>The Africa Region covers 37 sub-Saharan countries and a population of over 800 million through 11,400 service points.</p><h4>Results by region, 2012</h4><ul><li><strong>39,473,382</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>2,370,768</strong> couple years of protection (CYP)</li><li><strong>14,581,128</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>7,107,781</strong> HIV-related services provided</li><li><strong>227,576,575</strong> condoms distributed</li><li><strong>316,693</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in Africa, go to <a href='http://www.ippfar.org' class='read-more'>www.ippfar.org</a></p>"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [10.165960, 36.818810]
+    },
+    "properties": {
+        "title": "Arab World",
+        "number": "8",
+         "ma": "14",
+         "ro": "Tunis, Tunisia",
+        "description": "<p>The Arab World Region covers 14 countries with diverse socio-cultural challenges.</p><h4>Results by region, 2012</h4><ul><li><strong>2,821,454</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>287,345</strong> couple years of protection (CYP)</li><li><strong>1,303,746</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>439,801</strong> HIV-related services provided</li><li><strong>395,845</strong> condoms distributed</li><li><strong>46,763</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in the Arab World, go to: <a href='http://www.ippfawr.org/en' class='read-more'>www.ippfawr.org</a></p>"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [101.686855, 3.139003]
+    },
+    "properties": {
+        "title": "East and South East Asia and Oceania",
+        "number": "11",
+         "ma": "23",
+         "ro": "Kuala Lumpur, Malaysia",
+        "description": "<p>The East and South East Asia and Oceania Region encompasses 22 countries and delivers services through 8,300 service points.</p><h4>Results by region, 2012</h4><ul><li><strong>15,616,282</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>755,973</strong> couple years of protection (CYP)</li><li><strong>5,395,490</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>3,267,370</strong> HIV-related services provided</li><li><strong>30,026,771</strong> condoms distributed</li><li><strong>173,408</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in the region, go to: <a href='http://www.ippfeseaor.org/en' class='read-more'>www.ippfeseaor.org</a></p>"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [77.224960, 28.635308]
+    },
+    "properties": {
+        "title": "South Asia",
+        "number": "3",
+         "ma": "9",
+         "ro": "New Delhi, India",
+        "description": "<p>The South Asia Region covers 9 countries, including some of the most populous countries in the world, and operates nearly 19,000 service points.</p><h4>Results by region, 2012</h4><ul><li><strong>18,576,517</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>2,304,131</strong> couple years of protection (CYP)</li><li><strong>8,779,415</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>1,853,655</strong> HIV-related services provided</li><li><strong>35,835,701</strong> condoms distributed</li><li><strong>298,303</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in South Asia, go to: <a href='http://www.ippfsar.org/en' class='read-more'>www.ippfsar.org</a></p>"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.351710, 50.850340]
+    },
+    "properties": {
+        "title": "European Network",
+        "number": "31",
+         "ma": "40",
+         "ro": "Brussels, Belgium",
+        "description": "<p>The European Network comprises 41 Member Associations in Europe and Central Asia, encompassing the EU, EU accession states and the whole of Russia. </p><h4>Results by region, 2012</h4><ul><li><strong>1,730,329</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>41,068</strong> couple years of protection (CYP)</li><li><strong>841,979</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>203,697</strong> HIV-related services provided</li><li><strong>984,747</strong> condoms distributed</li><li><strong>106,969</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in Europe, go to: <a href='http://www.ippfen.org/en' class='read-more'>www.ippfen.org</a></p>"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.005973, 40.714353]
+    },
+    "properties": {
+        "title": "Western Hemisphere",
+        "number": "62",
+         "ma": "29",
+         "ro": "New York, United States of America",
+        "description": "<p>The 38 countries in the Western Hemisphere Region present a variety of challenging policy environments and service delivery issues. Collectively, the Member Associations operate 25,000 service points.</p><h4>Results by region, 2012</h4><ul><li><strong>34,491,529</strong> sexual and reproductive health services (including contraception) provided</li><li><strong>6,046,977</strong> couple years of protection (CYP)</li><li><strong>14,168,895</strong> sexual and reproductive health services (including contraception) provided to young people under 25 years</li><li><strong>6,278,658</strong> HIV-related services provided</li><li><strong>64,486,539</strong> condoms distributed</li><li><strong>1,172,693</strong> abortion‑related services provided</li></ul><p>To find out more about IPPF's work in this region, go to: <a href='http://www.ippfwhr.org' class='read-more'>www.ippfwhr.org</a></p>"
+    }
+}
+             ]
+}

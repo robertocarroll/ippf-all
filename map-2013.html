@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>IPPF global highlights from 2013 - International Planned Parenthood Federation</title>
+
+    <meta content="We are the world's leading sexual and reproductive health rights provider. This interactive map highlights our work around the world." name="description">
+
+  <meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=0, initial-scale=1">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="ippf.css" />
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="javascripts/jquery-1.10.2.min.js"><\/script>')</script>
+
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.js'></script>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css' rel='stylesheet' />
+
+  <!--[if lte IE 8]>
+    <link href='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.ie.css' rel='stylesheet'>
+  <![endif]-->
+
+</head>
+<body>
+<div id='map-ui'>
+  <form id='filters'>  
+        <h2 class="filter-title"><a href="#" id="view-all" class="view-all">Filter markers by type</a></h2>
+        <ul id='options'>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='access' value='access'/><label class='access' for='access'>Access to SRH services</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='education' value='education'/><label class='education' for='education'>Education and services for young people</label></li>           
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='abortion' value='abortion'/><label class='abortion' for='abortion'>Access to safe and legal abortion</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='violence' value='violence'/><label class='violence' for='violence'>Prevention of gender-based violence</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='srhbudget' value='srhbudget'/><label class='srhbudget' for='srhbudget'>National budget allocations for SRH</label></li>   
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='hiv' value='hiv'/><label class='hiv' for='hiv'>Support for people living with HIV</label></li> 
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='cervicalcancer' value='cervicalcancer'/><label class='cervicalcancer' for='cervicalcancer'>Cervical cancer prevention</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='conception' value='conception'/><label class='conception' for='conception'>Assisted conception</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='knowledge' value='knowledge'/><label class='knowledge' for='knowledge'>Knowledge sharing and learning</label></li>
+            <li><input type='checkbox' checked=checked class='filter css-checkbox'
+                       name='filter' id='global' value='global'/><label class='global' for='global'>Global advocacy</label></li>                                                                              
+        </ul>
+    </form>
+   
+</div>    
+    <div id="map2013"></div>
+
+    <div id="info">
+    	<div id="info-inner">
+      <h2>IPPF global highlights from 2013</h2>
+      <p>As a united Federation, IPPF is able to convene leaders from government, civil society and technical agencies to influence high level political will and to ensure that sexual and reproductive health and rights are central to global development and health.</p><p> This interactive map highlights our contribution to these successes around the world.</p><p>The wealth of expertise, knowledge and experience throughout the Federation enables IPPF Member Associations to learn from each other through a range of platforms such as exchange visits.</p>
+      </div>
+    </div> 
+
+  <script>
+  		var mapDate = 2013;
+  </script>    
+
+  <script src="javascripts/ippf.js"></script>
+
+</body>
