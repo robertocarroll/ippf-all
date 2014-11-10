@@ -1,0 +1,1654 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "properties": {
+        "title": "The passing of a domestic violence law that criminalizes all forms of violence, including that based on gender.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Angola"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.873887,
+          -11.202692
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "properties": {
+        "title": "A group of top religious leaders issued an official statement which liberalises their stance on contraception allowing for more conditions when it is acceptable.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Afghanistan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "properties": {
+        "title": "Emergency contraception and implants are now on the Special List of medicines, which means two NGOs (AFGA and MSI) can now provide them to clients.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Afghanistan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "properties": {
+        "title": "Creation of an Action Plan for the protection and promotion of youth SRHR in the region of Elbasan.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Albania"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.168331,
+          41.153332
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "properties": {
+        "title": "The National Programme for Sexual Health and Procreation now has expanded contraceptive options, adding long-acting methods such as implants to the basket of available contraceptives the programme provides free of cost.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Argentina"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.616672,
+          -38.416097
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "properties": {
+        "title": "The Australian Government’s national budget includes resource allocation for education, awareness raising and evidence building activities to support action on Female Genital Mutilation.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Australia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.775136,
+          -25.274398
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "properties": {
+        "title": "Two state laws changed: abortion decriminalized in Tasmania; new policy that clarifies situations for women seeking termination of pregnancy services in public hospitals in Queensland.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Australia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.775136,
+          -25.274398
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "properties": {
+        "title": "Creation of a new Ministry of Health programme to provide HPV vaccines to pre-teens as part of the Ministry of Education programme in schools.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Barbados"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.543198,
+          13.193887
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "properties": {
+        "title": "National HIV plan developed for 2014-2019.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Belgium"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.469936,
+          50.503887
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "properties": {
+        "title": "Budget allocation for sexuality education in francophone schools in Belgium.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Belgium"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.469936,
+          50.503887
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "properties": {
+        "title": "Passing of a domestic violence law.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Bhutan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.433601,
+          27.514162
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "properties": {
+        "title": "New Comprehensive Violence against Women Act which comprises a definition of femicide, includes more severe punishment to offenders and establishes funding.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Bolivia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "properties": {
+        "title": "Approval of 5 Autonomic Norms about SRH by the Assembly of Autonomous Regions of Bolivia.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Bolivia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "properties": {
+        "title": "Creation of 3 Municipal Organic Ordinances about SRHR.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Bolivia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "properties": {
+        "title": "Protocol developed and approved for providing mental health services to human trafficking victims.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Bosnia and Herzegovina"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "properties": {
+        "title": "The subject “Healthy Lifestyles” introduced in elementary schools as an optional subject in Sarajevo Canton.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Bosnia and Herzegovina"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "properties": {
+        "title": "Reformulation and reform of the National Commission of Population and Development that defines the attributes and structures of the Commission.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Brazil"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92528,
+          -14.235004
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "properties": {
+        "title": "Blocked proposed legislation for NGOs that would have negatively impacted on how civil society can influence change.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Bulgaria"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48583,
+          42.733883
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "properties": {
+        "title": "Inclusion of Misoprostol on the Essential Medicines List.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Burundi"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "properties": {
+        "title": "Life Skill Education on child sexual exploitation (formerly only covered HIV/AIDS).",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Cambodia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.990963,
+          12.565679
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "properties": {
+        "title": "National policy on family planning developed.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Chad"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "properties": {
+        "title": "Policy stating that local FPAs to be the resource to provide SRH education to young people.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "China"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.195397,
+          35.86166
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "properties": {
+        "title": "Ministry of Health produced a binding order for health institutions stating its support of the Supreme Court sentence that legalizes abortion, and the other norms that regulate abortion services under any of the established legal exceptions.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Colombia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "properties": {
+        "title": "Approval of budget allocation to purchase contraceptives.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Congo, DR"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.758664,
+          -4.038333
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "properties": {
+        "title": "Budget allocated to implement an adolescent pregnancy plan.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Dominican Republic"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.162651,
+          18.735693
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "properties": {
+        "title": "Reform of the Penal Code to modify the exceptions for legal abortion to now include 'mental disability' instead of 'idiot or demented woman'.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Ecuador"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.183406,
+          -1.831239
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "properties": {
+        "title": "A new child protection law, which includes a new instruction for helping victims of sexual abuse and a revised definition of rape, which especially concerns young people under 18.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Finland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.748151,
+          61.92411
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "properties": {
+        "title": "Passing of a human rights law which includes SRHR as part of a human rights approach.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Finland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.748151,
+          61.92411
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "properties": {
+        "title": "Increased amount of reimbursement given by government to hospitals to cover the costs of abortion procedures.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "France"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213749,
+          46.227638
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "properties": {
+        "title": "Permanent contraception is now free for women under 40; previously, was only free for over 40.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "France"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213749,
+          46.227638
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "properties": {
+        "title": "Family planning is now included in maternal health care as a free service.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Ghana"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.023194,
+          7.946527
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "properties": {
+        "title": "Reform of law to include measures to reach gender parity and more equal representation of women in political parties.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Guatemala"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "properties": {
+        "title": "Congressional commission on health now has oversight of a biministerial declaration that was signed in 2010 by the Ministry of Health and the Minitry of Education.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Guatemala"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "properties": {
+        "title": "Child, adolescent and youth policy developed.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Guatemala"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "properties": {
+        "title": "Change in penal code to depenalize abortion in cases of malformation and fetal anomalies.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Haiti"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "properties": {
+        "title": "For a law on mass organization, efforts changed 8 clauses that would have made it difficult to have space to advocate as part of a network/coalition for SRHR.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Indonesia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "properties": {
+        "title": "National policy that makes family planning services free for rural populations.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Iran"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688046,
+          32.427908
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "properties": {
+        "title": "The abortion law amended to allow abortion when a woman's life is at risk.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Ireland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.24389,
+          53.41291
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "properties": {
+        "title": "The Ministry of Health's Health Basket updated such that abortion is provided free of charge for women under 33 (previously was free only for women under 19).",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Israel"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.851612,
+          31.046051
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "properties": {
+        "title": "Reintegration Policy for School Aged Mothers: school leaders are now bound to re-admit students who became pregnant after they have had their baby.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Jamaica"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.297508,
+          18.109581
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "properties": {
+        "title": "Ministry of Health Order to organise Rural Health/Family Planning centres in all districts of the country (not just main cities as was the case before 2013).",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Kazakhstan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.923684,
+          48.019573
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "properties": {
+        "title": "Kostany Oblast state budget allocation for contraceptives procurement for vulnerable groups.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Kazakhstan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.923684,
+          48.019573
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "properties": {
+        "title": "Revised national HIV/AIDS plan which now includes issues of safer sex practices.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Kenya"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -0.023559
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "properties": {
+        "title": "New Family Peace Bill provides measures and responds to emerging sexual and gender-based violence victims' needs and provides guidelines on how Government should work with key stakeholders. It also ensures that men violating rights of women and children should be held accountable for it.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Kiribati"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.734039,
+          -3.370417
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "properties": {
+        "title": "Training on youth-friendly services is now mandatory for all public and private health providers of Adolescent Sexual and Reproductive Health services (gynaecologists).",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Kyrgyzstan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.766098,
+          41.20438
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "properties": {
+        "title": "Approval of a Minimum Initial Service Package for use in emergency situations.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Kyrgyzstan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.766098,
+          41.20438
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "properties": {
+        "title": "Child sexual exploitation is now a mandatory part of vocational schools' health curricula.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Latvia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.603189,
+          56.879635
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "properties": {
+        "title": "Blocked proposed legislation that would have limited access to abortion.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Lithuania"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.881275,
+          55.169438
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "properties": {
+        "title": "Lithuanian Education Strategy now includes sexuality education.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Lithuania"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.881275,
+          55.169438
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "properties": {
+        "title": "The withdrawal of two negative articles in a proposed new abortion law: one would have required husband's/partner's consent and the other would have given the Ministry of Health authority to appoint a hospital commission to decide on abortions post 10 weeks.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Macedonia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.745275,
+          41.608635
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "properties": {
+        "title": "A 6-fold increase in budget allocated to antiretroviral therapy over previous year.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Macedonia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.745275,
+          41.608635
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "properties": {
+        "title": "National budget allocation for contraception.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Malawi"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.301525,
+          -13.254308
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "properties": {
+        "title": "Fatwa against gender-based violence.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Maldives"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22068,
+          3.202778
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "properties": {
+        "title": "Primary and secondary school curricula revised to include sexuality education.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Mauritius"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.552152,
+          -20.348404
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "properties": {
+        "title": "Maintained a policy (2007 SRH Plan for adolescents) that was under threat.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Mexico"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "properties": {
+        "title": "Budget allocation to SRH Plan for adolescents.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Mexico"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "properties": {
+        "title": "Child sexual exploitation is now included in teacher training packages.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Nepal"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.124008,
+          28.394857
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "properties": {
+        "title": "Blocked proposed legislation that would have required sex workers to register on a proposed national registry; this would have put sex workers' privacy, sexual and reproductive rights at risk.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Netherlands"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291266,
+          52.132633
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "properties": {
+        "title": "Increased budget allocation for the purchase of contraceptives.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Nigeria"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "properties": {
+        "title": "HIV/AIDS national strategic plan for 2013-2018.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Palestine"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.233154,
+          31.952162
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "properties": {
+        "title": "Law on female sterilization.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Panama"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "properties": {
+        "title": "Law that defines femicide and a regulatory framework to eradicate gender-based violence which includes the lack of access to family planning as a a form of violence against women.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Panama"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "properties": {
+        "title": "Change in law enabling emancipated youth to give or not to give her baby in adoption.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Panama"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "properties": {
+        "title": "SRH Plan for 2014-2018.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Paraguay"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.443832,
+          -23.442503
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "properties": {
+        "title": "Consensual sexual relations between minors decriminalized.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Peru"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "properties": {
+        "title": "Multisectoral plan to prevent adolescent pregnancy.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Peru"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "properties": {
+        "title": "National Policy on Strategic Framework on Adolescent Health and Development developed.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Philippines"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "properties": {
+        "title": "Change in law to provide pretection for gender-based violence cases regardless of sexual orientation, marital status or migratory status.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Puerto Rico"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.590149,
+          18.220833
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "properties": {
+        "title": "Law against discrimination in public or private workplace based on sexual orientation or gender identity.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Puerto Rico"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.590149,
+          18.220833
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "properties": {
+        "title": "Blocked legislation that would have required 'crisis pregnancy counselling' and a 5-day waiting period before abortion; women also would have been required to sign a document stating 'life begins at conception' before being allowed an abortion.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Romania"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96676,
+          45.943161
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "properties": {
+        "title": "Blocked legislation that would have cut state funding for abortion.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Russia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "properties": {
+        "title": "Abortion guidelines updated to include no penalization for abortion in all cases.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Sao Tome and Principe"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.613081,
+          0.18636
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "properties": {
+        "title": "Gender-based violence policy was updated to inlcude a provision that young people can continue school after giving birth.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Sao Tome and Principe"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.613081,
+          0.18636
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "properties": {
+        "title": "The Adolescent Policy was updated to have a section on allowing pregnant school students to continue attending school during their pregnancy.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Sao Tome and Principe"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.613081,
+          0.18636
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "properties": {
+        "title": "Clear guidance on how abortion has to be reported at government hospitals.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Serbia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.005859,
+          44.016521
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "properties": {
+        "title": "HIV policy updated and now includes targeted activities for men who have sex with men, people who inject drugs and sex workers.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Seychelles"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.491977,
+          -4.679574
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "properties": {
+        "title": "Increased budget allocation for health/SRH.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Sierra Leone"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.779889,
+          8.460555
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "properties": {
+        "title": "National youth policy developed.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Sri Lanka"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "properties": {
+        "title": "A new policy in 3 states to enforce the gender-based violence law.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Sudan"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "properties": {
+        "title": "National SRH policy developed.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Swaziland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.465866,
+          -26.522503
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "properties": {
+        "title": "Law amended to be more strict against rape perpetrators and more protective of rape victims.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "Sweden"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.643501,
+          60.128161
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "properties": {
+        "title": "The law was changed in 2013 and transgender people no longer have to undergo forced sterilization if they want to legally change their sex. People under the age of 18 are now also allowed to undergo investigations.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Sweden"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.643501,
+          60.128161
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "properties": {
+        "title": "Increased subsidies for contraception for young people and more equitable access across the country.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Sweden"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.643501,
+          60.128161
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "properties": {
+        "title": "Change in law on epidemics regarding HIV - the transmission of HIV is no longer punishable if the person was not acting out of malice or with intent. The new law also includes provision for prevention through sex education at school.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Switzerland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227512,
+          46.818188
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "properties": {
+        "title": "Inclusion of SRHR in Switzerland's post-2015 development aid agenda; it was at risk of being couched in other areas such as poverty reduction.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Switzerland"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227512,
+          46.818188
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "properties": {
+        "title": "SRH is now included as a specific objective in the 2013-2018 Tonga National Youth Strategy.",
+        "description": "±no-desc±",
+        "type": "education",
+        "country": "Tonga"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.198242,
+          -21.178986
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "properties": {
+        "title": "Integrated National Strategic Plan on HIV, STIs and SRH.",
+        "description": "±no-desc±",
+        "type": "hiv",
+        "country": "Tonga"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.198242,
+          -21.178986
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "properties": {
+        "title": "Increased budget allocation for contraceptives.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Uganda"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "properties": {
+        "title": "Task sharing policy developed where clinical officers can now do permanent FP.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "Uganda"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "properties": {
+        "title": "National Population Bill passed into Act.",
+        "description": "±no-desc±",
+        "type": "access",
+        "country": "Uganda"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "properties": {
+        "title": "Regulations developed on the provision of comprehensive care for unwanted pregnancies.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Ukraine"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16558,
+          48.379433
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "properties": {
+        "title": "Blocked a proposed law that would have banned abortion, as well as advertising for contraception including condoms.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Ukraine"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16558,
+          48.379433
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "properties": {
+        "title": "Reauthorization of the Violence Against Women Act.",
+        "description": "±no-desc±",
+        "type": "violence",
+        "country": "United States"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "properties": {
+        "title": "New regulation that includes IUDs in health insurance plans under the Affordable Care Act.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "United States"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "properties": {
+        "title": "FP providers recognised as essential community providers under health care reform.",
+        "description": "±no-desc±",
+        "type": "contraception",
+        "country": "United States"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "properties": {
+        "title": "Change in abortion law that makes abortion services more accessible, reducing procedural barriers to access.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Uruguay"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.765835,
+          -32.522779
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "properties": {
+        "title": "Development of official guidelines to regulate provison of abortion services.",
+        "description": "±no-desc±",
+        "type": "abortion",
+        "country": "Uruguay"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.765835,
+          -32.522779
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
