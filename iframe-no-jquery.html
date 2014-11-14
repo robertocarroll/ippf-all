@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>IPPF global highlights - International Planned Parenthood Federation</title>
+
+    <meta content="We are the world's leading sexual and reproductive health rights provider. This interactive map highlights our work around the world." name="description">
+
+  	<meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=0, initial-scale=1">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+</head>
+
+<body>
+
+	  <style>
+
+	  body {
+	    font: 13px/18px Arial,Helvetica,sans-serif;
+	    color: gray;
+	  }
+  	
+  	/* IPPF - start your paste from here */
+
+		iframe.noScrolling{
+       width: 940px; 
+       height: 550px; 
+       overflow: hidden;
+    }
+
+    #content .node-content {
+	    padding: 12px !important;
+		}
+
+    #tabs { 
+    	margin: 0; 
+    	padding: 0; 
+    	list-style-type: none; 
+    	overflow: hidden; 
+    }
+
+    #tabs li {     
+    	float: left; 
+    	padding-top: 21px;
+    	padding-bottom: 13px;
+    	margin-right: 2px;
+    }
+    
+    #tabs li a {
+    	color: #fff;
+    	cursor: pointer; 
+    	text-decoration: none;
+    	transition: all 0.2s ease-in-out 0s;
+    	background: #009cde; 
+    	padding: 14px 21px;
+    	text-align: center; 	
+    } 
+
+    #tabs li a:hover {  	
+    	background-color: #007acd;
+  	}
+
+    #tabs li.selected a { 
+    	background: #e6e2db; 
+    	color: #4d4d4d !important;
+    	cursor: auto; 
+    	top: 0;
+    }
+    
+    #tabs-content { 
+    	clear: both;    	
+    }
+
+    .hide {
+		   position: absolute !important;
+		   top: -9999px !important;
+		   left: -9999px !important;
+		}
+    
+    </style> 
+
+			<ul id="tabs">
+					<li id="2013"><a href="#2013">2013</a></li>
+					<li id="2012"><a href="#2012">2012</a></li>
+					<li id="ma"><a href="#ma">Member associations</a></li>
+			</ul>
+
+			<div id="tabs-content">
+						<div id="tab-content-2013"><iframe scrolling="no" src="map-2013.html" style="border:0;" name="IPPF advocacy highlights 2013" class="noScrolling"> Sorry your browser does not support frames or is currently not set to accept them.</iframe>
+
+				<p><a href="http://geojson.io/#id=github:robertocarroll/ippf-all/blob/gh-pages/data/ippf-2013-top.geojson&amp;map=1/19/-21" target="_blank">Edit the 2013 top data here</a></p>
+
+				<p><a href="http://geojson.io/#id=github:robertocarroll/ippf-all/blob/gh-pages/data/ippf-2013.geojson&amp;map=1/19/-21" target="_blank">Edit the 2013 main data here</a></p>	
+
+				</div>
+
+				<div id="tab-content-2012"> <iframe scrolling="no" src="map-2012.html" style="border:0;" name="IPPF advocacy highlights 2012"class="noScrolling"> Sorry your browser does not support frames or is currently not set to accept them.</iframe>
+
+				<p><a href="http://geojson.io/#id=github:robertocarroll/ippf-all/blob/gh-pages/data/ippf-2012-top.geojson&amp;map=1/19/-21" target="_blank">Edit the 2012 top data here</a></p>
+
+				<p><a href="http://geojson.io/#id=github:robertocarroll/ippf-all/blob/gh-pages/data/ippf-2012.geojson&amp;map=1/19/-21" target="_blank">Edit the 2012 main data here</a></p>	
+				</div>
+
+				<div id="tab-content-ma"><iframe scrolling="no" src="map-ma.html" style="border:0;" name="IPPF member associations" class="noScrolling"> Sorry your browser does not support frames or is currently not set to accept them.</iframe>
+
+				<p><a href="http://geojson.io/#id=github:robertocarroll/ippf-all/blob/gh-pages/data/ippf-members.geojson&amp;map=1/19/-21" target="_blank">Edit the Member Association data here</a></p>	
+				</div>
+			</div>
+
+			<script>	
+					
+				var currentHashNav = null;
+
+				//Call this, passing it a callback function
+				function initHashNav(callback) {			
+					if (!callback) return false;
+
+					if (typeof callback !== "function") {
+						throw "Sorry, that url does not exist. Please try again.";
+						return false;
+					}
+
+					if ("onhashchange" in window) {
+					    window.onhashchange = function(){checkHash(callback);};
+					} else {
+					    setInterval(function(){checkHash(callback);}, 100);        
+					}
+
+					checkHash(callback);
+				}
+
+				//Function called onhashchange or on loop (for older browsers)
+				function checkHash(callback) {	
+					if (window.location.hash.replace(/^#/i,"") !== currentHashNav) {
+						var newHash = window.location.hash.replace(/^#/i,"");		
+
+						var chopped = chopHash(newHash);			
+						callback(chopped);
+
+						currentHashNav = newHash;
+					}
+				}
+
+				function chopHash(hash) {	
+					//Do something with the new hash
+					var hash = {
+						raw: hash,
+						base: decodeURIComponent(hash),
+						parameters: null
+					}
+
+					return hash;
+				}
+
+				var jsCheck = document.getElementById('tabs-content');
+				jsCheck.setAttribute("class", "js"); 
+
+				var allTabsContent = document.querySelectorAll('#tabs-content > div');
+
+				for (var i=0; i < allTabsContent.length; i++) {
+		   		 allTabsContent[i].setAttribute("class", "hide");
+				}
+
+				 function updateNav(hash) {  
+
+				 	// Get the hash value
+				 		var hashValue = hash.raw; 
+				 		var selected = '2013';
+				 		var tabId; 
+
+				 	// Check if it is the root or not	
+						if (hashValue) {
+							tabId = hashValue;
+						} 		  
+
+						else {
+							tabId = selected;
+						}
+
+						// Get the tabs and the tab content
+				 		var tabContent = document.getElementById('tab-content-' + tabId);
+				 		var tab = document.getElementById(tabId);
+
+				 		// Reset the hide on all tab content
+				 		for (var i=0; i < allTabsContent.length; i++) {
+				   		 allTabsContent[i].setAttribute("class", "hide");
+						}
+
+						// Get all the tabs
+						var allTabs = document.querySelectorAll('#tabs > li');
+
+						// Remove the selected from them all, i.e. reset
+						for (var i=0; i < allTabs.length; i++) {
+				   		 allTabs[i].removeAttribute("class", "selected");
+						}
+
+						// Select the active tab and content
+				 		tab.setAttribute("class", "selected");
+				 		tabContent.removeAttribute("class", "hide");
+
+		    }
+
+				 initHashNav(updateNav);
+
+			</script>
+
+			<!-- IPPF - End your paste here -->
+	
+</body>
